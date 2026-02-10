@@ -1,6 +1,7 @@
 Sample bTB project for QUB Analytathon 2026. Contains Jupyter notebook for dataset generation, and txt file for example sample data.
 
 Analytathon Challenge: Predicting and Preventing Bovine TB – A Multi-Modal Data Challenge
+
 Challenge Overview
 Bovine Tuberculosis (bTB) poses a persistent and costly threat to the UK's cattle industry, impacting animal welfare, farmer livelihoods, and international trade. Effective control strategies require a deep understanding of risk factors, early detection capabilities, and targeted interventions.
 
