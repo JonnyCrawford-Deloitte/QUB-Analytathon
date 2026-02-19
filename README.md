@@ -1,4 +1,4 @@
-Sample bTB project for QUB Analytathon 2026. Contains Jupyter notebook for dataset generation, and txt file for example sample data.
+Sample bTB project for QUB Analytathon 2026. Contains Jupyter notebook for dataset generation, and csv file for data
 
 Analytathon Challenge: Predicting and Preventing Bovine TB – A Multi-Modal Data Challenge
 
@@ -29,6 +29,3 @@ Engineer relevant features from the tabular data (e.g., temporal features from T
 Geographic Risk Analysis:
 Visualise: Plot farm locations and positive TB cases on a map to identify potential spatial clusters or hotspots.
 Quantify: Use spatial analysis techniques (e.g., distance calculations, density measures, spatial autocorrelation) to identify geographic risk factors.
-
-Environmental Risk Classification from Imagery (CNN Task):
-Objective: Build a Convolutional Neural Network (CNN) model to accurately classify the Environmental_Risk_Label for each farm based on its associated image.
